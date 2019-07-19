@@ -1,6 +1,6 @@
 # workstation_preparation
 
-## Brave (web browser)
+### Brave (web browser)
 https://brave.com/
 
 ## Putty / Kitty
